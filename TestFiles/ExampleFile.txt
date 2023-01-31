@@ -1,0 +1,11 @@
+\begin{tabular}{|c|c|c|}
+	\hline
+	Column1 & Column2 & Column3 \\
+	\hline
+	1 & 2 & 3 \\
+	\hline
+	a & b & c \\
+	\hline
+	x & y & z \\
+	\hline
+\end{tabular}
